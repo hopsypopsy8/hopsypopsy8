@@ -13,7 +13,8 @@ More to come soon! (this is just a start as i write out everything i've done)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Hack The Box Labs                               | <a href="https://www.youtube.com/@Hopsypopsy">Youtube Channel</a>|
+| Hack The Box Labs                             | <a href="https://www.youtube.com/@Hopsypopsy">Youtube Channel</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/hopsypopsy8/Detection-and-Mitigation-Lab/tree/main">Detection and Mitigation Lab</a>|
 
 ## Tools
 
