@@ -18,6 +18,13 @@ More to come soon! (this is just a start as i write out everything i've done)
 | Networking Fundamentals in Python             | <a href="https://github.com/hopsypopsy8/Computer-Networks">Python Multi-threaded Chat Server</a>|
 
 
+| Exploit Name                                  | Exploited CVE              |
+|-----------------------------------------------|----------------------------|
+| Apache Struts                                 | <a href="https://google.com">CVE-2024-53677</a>|
+
+
+
+
 ## Tools
 
 ### Network
