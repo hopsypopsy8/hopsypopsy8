@@ -20,7 +20,7 @@ More to come soon! (this is just a start as i write out everything i've done)
 
 | Exploit Name                                  | Exploited CVE              |
 |-----------------------------------------------|----------------------------|
-| Apache Struts                                 | <a href="https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation">CVE-2024-53677</a>|
+| Apache Struts 6.3.0.1                         | <a href="https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation">CVE-2024-53677</a>|
 
 
 
