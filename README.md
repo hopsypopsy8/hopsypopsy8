@@ -31,7 +31,7 @@ More to come soon! (this is just a start as i write out everything i've done)
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
-### Pentetration Testing an
+
 
 
 ## Certifications
