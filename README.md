@@ -14,9 +14,8 @@ More to come soon! (this is just a start as i write out everything i've done)
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hack The Box Labs                             | <a href="https://www.youtube.com/@Hopsypopsy">Youtube Channel</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/hopsypopsy8/Detection-and-Mitigation-Lab/tree/main">Detection and Mitigation Lab</a>|
-| Networking Fundamentals in Python             | <a href="https://github.com/hopsypopsy8/Computer-Networks">Python Multi-threaded Chat Server</a>|
-
+| Networking Fundamentals in Python             | <a href="https://github.com/hopsypopsy8/Computer-Networks">Python Multi-threaded Chat Server</a>|**
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/hopsypopsy8/Detection-and-Mitigation-Lab/tree/main">Detection and Mitigation Lab (Ongoing)</a>|
 
 | Exploit Name                                  | Exploited CVE              |
 |-----------------------------------------------|----------------------------|
@@ -30,7 +29,10 @@ More to come soon! (this is just a start as i write out everything i've done)
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
+### Pentetration Testing an
+
 
 ## Certifications
 <div>
