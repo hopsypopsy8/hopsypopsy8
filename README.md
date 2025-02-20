@@ -14,15 +14,14 @@ More to come soon! (this is just a start as i write out everything i've done)
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hack The Box Labs                             | <a href="https://www.youtube.com/@Hopsypopsy">Youtube Channel</a>|
-| Networking Fundamentals in Python             | <a href="https://github.com/hopsypopsy8/Computer-Networks">Python Multi-threaded Chat Server</a>|**
+| Home Lab v1.0                                 | <a href="https://github.com/hopsypopsy8/Home-Lab/blob/main/README.md">Home Lab Documentation</a>|
+| Networking Fundamentals in Python             | <a href="https://github.com/hopsypopsy8/Computer-Networks">Python Multi-threaded Chat Server</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/hopsypopsy8/Detection-and-Mitigation-Lab/tree/main">Detection and Mitigation Lab (Ongoing)</a>|
 
 | Exploit Name                                  | Exploited CVE              |
 |-----------------------------------------------|----------------------------|
 | Apache Struts 6.3.0.1                         | <a href="https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation">CVE-2024-53677</a>|
 | Apache Tomcat 7.0.88                          | <a href="https://github.com/hopsypopsy8/CVE-2020-1938-Exploitation/blob/main/README.md">CVE-2020-1938</a>|
-
-
 
 ## Tools
 
