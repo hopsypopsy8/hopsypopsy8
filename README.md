@@ -31,6 +31,11 @@ More to come soon! (this is just a start as i write out everything i've done)
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
 
+### Firewall
+<div>
+    <img src="https://img.shields.io/badge/-pfSense-283F1D?&style=for-the-badge&logo=pfSense&logoColor=white" />
+</div>
+
 
 
 ## Certifications
