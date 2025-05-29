@@ -34,11 +34,13 @@ More to come soon! (this is just a start as i write out everything i've done)
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?&style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 ### Firewall
 <div>
     <img src="https://img.shields.io/badge/-pfSense-283F1D?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
 
 ### Cloud
